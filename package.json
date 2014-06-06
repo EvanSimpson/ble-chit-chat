@@ -1,4 +1,16 @@
 {
+  "name": "ble-chit-chat",
+  "version": "0.1.0",
+  "description": "Tessel project to send JS objects back and forth between two Tessels.",
+  "main": "index.js",
+  "author": "Evan Simpson <evan@technical.io",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "tessel",
+    "ble",
+    "bluetooth"
+  ],
   "dependencies": {
     "ble-ble113a": "^0.1.1",
     "structured-clone": "^0.2.2"
