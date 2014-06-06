@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "ble-ble113a": "^0.1.1"
+    "ble-ble113a": "^0.1.1",
+    "structured-clone": "^0.2.2"
   }
 }
