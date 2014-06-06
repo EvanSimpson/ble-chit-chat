@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ble-ble113a": "^0.1.1"
+  }
+}
