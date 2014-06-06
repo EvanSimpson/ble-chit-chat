@@ -1,7 +1,7 @@
 {
   "name": "ble-chit-chat",
   "version": "0.1.0",
-  "description": "Tessel project to send JS objects back and forth between two Tessels.",
+  "description": "Tessel project to show how to send JS objects back and forth between two Tessels.",
   "main": "index.js",
   "author": "Evan Simpson <evan@technical.io",
   "license": "MIT",
